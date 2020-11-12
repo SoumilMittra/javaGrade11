@@ -42,10 +42,8 @@ public class PracticalIBMOCK {
 		 IBIO.out("min: "+min);
 		 IBIO.out("range: "+range);
 		 IBIO.out("average: "+average);
-		 
-		 
-		 
-		}
+		 	 
+	}
 	
 
 }
