@@ -23,8 +23,8 @@ public class PracticalIBMOCK {
 			 {
 				 min = n;
 				 max = n;
-			 } else // if it's not the first time we run the loop check if the min and max have to be updated or not, based on the following input numbers
-			 {
+			 } else // if it's not the first time we run the loop check if the min and max have to be updated or not,
+			 {	//  based on the following inputs
 				 if (n < min)
 			 	{
 					 min = n;
@@ -47,3 +47,6 @@ public class PracticalIBMOCK {
 	
 
 }
+
+// remember to pull my java11 repository to get the updated versions of the code we write in class, including my suggested answers to
+// the mock practical test for quarter 2 - dig and explore!
